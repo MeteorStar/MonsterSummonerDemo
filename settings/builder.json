@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.MS",
+  "startScene": "69ba2c74-42ab-4170-ac36-30a9f7f72695",
+  "title": "MS",
+  "webOrientation": "auto"
+}

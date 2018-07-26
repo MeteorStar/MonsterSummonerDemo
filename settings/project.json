@@ -1,0 +1,48 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "Team0",
+    "Team1",
+    "Body",
+    "Bullet",
+    "test"
+  ],
+  "start-scene": "current"
+}
